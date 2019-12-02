@@ -1,0 +1,11 @@
+Can hash values be arrays? Can you have an array of hashes? (give examples)
+
+Yes.
+
+A) hash values as arrays
+
+hash = {rooms: [`bedroom`, `living room`, `dining room`]}
+
+B) array of hashes
+
+arr = [{room: 'bedroom'}, {room : 'living room'}, {room: 'dining room']

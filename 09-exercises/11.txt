@@ -1,0 +1,1 @@
+ruby-doc.org is the official source and well documented.
